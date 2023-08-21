@@ -1,4 +1,4 @@
-![MasterHead]([https://github.com/sibashis9692/sibashis9692/blob/master/Github_Banner.jpg))
+![logo](https://github.com/sibashis9692/sibashis9692/blob/master/Github_Banner.jpg)
 
 
 <h1 align="center">Hi 👋, I'm Sibashis</h1>
