@@ -1,5 +1,4 @@
-![logo](https://github.com/sibashis9692/sibashis9692/blob/master/Github_Banner.jpg)
-
+![Github_Banner](https://github.com/sibashis9692/sibashis9692/assets/90366636/51a34f85-e350-4936-8d07-5c7d18dd7cff)
 
 <h1 align="center">Hi 👋, I'm Sibashis</h1>
 <h3 align="center">I am actively seeking opportunities in the field of Python full-stack development. I have a strong passion for Python programming and web development, and I'm eager to contribute to projects in this domain.</h3>
