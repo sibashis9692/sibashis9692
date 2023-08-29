@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sibashis</h1>
-<h3 align="center">I am actively seeking opportunities in the field of Python full-stack development. I have a strong passion for Python programming and web development, and I'm eager to contribute to projects in this domain.</h3>
+<h3 align="center">I am actively seeking opportunities in Python & Django. I have a strong passion for Python programming and web development and am eager to contribute to projects in this domain.</h3>
 
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/2uyENRmiUt0AAAAC/coding.gif">
 
@@ -14,6 +14,6 @@
 
 - 🤝 I’m looking for **Python/Django Internship**
 
-- 💬 Ask me about **Python,Java,Problem Solving,Django,Flask**
+- 💬 Ask me about **Python, Java, Problem Solving, Django, Flask**
 
 - 📫 How to reach me **sibashisnayak228@gmail.com**
