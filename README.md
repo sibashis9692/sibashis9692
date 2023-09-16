@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sibashis</h1>
-<h3 align="center">I am actively seeking opportunities in Python & Django. I have a strong passion for Python programming and web development and am eager to contribute to projects in this domain.</h3>
+<h3 align="center">I have a strong passion for Python programming and Django web development, and I am eager to contribute to projects in this field. </h3>
 
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/2uyENRmiUt0AAAAC/coding.gif">
 
