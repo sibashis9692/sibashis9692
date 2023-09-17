@@ -1,13 +1,17 @@
 <h1 align="center">Hi 👋, I'm Sibashis</h1>
 <h3 align="center">I am actively seeking opportunities in Python and Django web development and am eager to contribute to projects in this field. </h3>
 
-<img align="right" alt="Coding" width="400" src="https://media.tenor.com/2uyENRmiUt0AAAAC/coding.gif">
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/sibashis_nayak?label=Follow)](https://twitter.com/intent/follow?screen_name=sibashis_nayak)
 [![Linkedin: sibashis](https://img.shields.io/badge/-sibashis-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sibashis-nayak/)](https://www.linkedin.com/in/sibashis-nayak/)
 ![GitHub followers](https://img.shields.io/github/followers/sibashis9692?label=Follow&style=social)
+![GitHub Viewers](https://komarev.com/ghpvc/?username=sibashis9692&label=Profile%20views&color=0e75b6&style=flat)
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sibashis9692&label=Profile%20views&color=0e75b6&style=flat" alt="sibashis9692" /> </p>
+
+
+![Sibashis Nayak Banner (1)](https://github.com/sibashis9692/sibashis9692/assets/90366636/30a47784-f381-42d1-b281-bb09a0b6c8f0)
+
+
 
 ## 👨🏻‍💻 &nbsp;About Me
 
