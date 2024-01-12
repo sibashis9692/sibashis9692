@@ -8,15 +8,10 @@
 ![GitHub Viewers](https://komarev.com/ghpvc/?username=sibashis9692&label=Profile%20views&color=0e75b6&style=flat)
 
 
-
-![Sibashis Nayak Banner (1)](https://github.com/sibashis9692/sibashis9692/assets/90366636/30a47784-f381-42d1-b281-bb09a0b6c8f0)
-
-
-
 ## 👨🏻‍💻 &nbsp;About Me
 
-💡 &nbsp; Some technologies I enjoy working with include Python, Django, Django REST Framework, and JavaScript. Currently exploring React js.\
-🌱 &nbsp; I'm on track to learn more about Web Development, crafting robust APIs, and Algorithms.\
+💡 &nbsp; Some technologies I enjoy working with include Python, Django, Django REST Framework, and API Currently exploring React js.\
+🌱 &nbsp; I'm on track to learn more about Web Development, crafting APIs, and Problem Solving.\
 ✉️ &nbsp; You can shoot me an email at sibashisnayak228@gmail.com! I'll try to respond as soon as I can.
 
 
