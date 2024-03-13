@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sibashis</h1>
-<h3 align="center">I am actively seeking opportunities in Python and Django web development and am eager to contribute to projects in this field. </h3>
+<h3 align="center">I am actively looking for opportunities as a Python and Django developer. </h3>
 
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/sibashis_nayak?label=Follow)](https://twitter.com/intent/follow?screen_name=sibashis_nayak)
@@ -16,8 +16,7 @@
 
 
 
-## Find me around the web 🌎 <a href="https://www.linkedin.com/in/tanyarajhans/"><img align="left" width="150" height="146" src="https://github.com/M0nica/M0nica/blob/main/octomonica/m0nica-octocat-rotating.gif?raw=true"></a>
-
+## Find me around the web 🌎
 - Struggling on <a href="https://leetcode.com/sibashisnayak9692/">LeetCode</a> 😍
 - Practising on <a href="https://auth.geeksforgeeks.org/user/sibashisnayak228/practice">GeeksforGeeks</a> 🙃
 - Sharing updates on <a href="https://www.linkedin.com/in/sibashis-nayak-61a74b219/">LinkedIn</a> 😇
