@@ -19,4 +19,4 @@
 ## Find me around the web 🌎
 - Struggling on <a href="https://leetcode.com/sibashisnayak9692/">LeetCode</a> 😍
 - Practising on <a href="https://auth.geeksforgeeks.org/user/sibashisnayak228/practice">GeeksforGeeks</a> 🙃
-- Sharing updates on <a href="https://www.linkedin.com/in/sibashis-nayak-61a74b219/">LinkedIn</a> 😇
+- Sharing updates on <a href="https://www.linkedin.com/in/sibashis-nayak/">LinkedIn</a> 😇
